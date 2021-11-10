@@ -4,37 +4,31 @@
 <h5 align="center">(in the making)</h5>
 
 <p align="center">
-<a href="https://github.com/manueltgomes/regular-expression-compendium/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/manueltgomes/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium license" />
+<a href="https://github.com/baronblue/regular-expression-compendium/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/baronblue/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium license" />
 </a>
-<a href="https://github.com/manueltgomes/regular-expression-compendium/fork" target="blank">
-<img src="https://img.shields.io/github/forks/manueltgomes/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium forks"/>
+<a href="https://github.com/baronblue/regular-expression-compendium/fork" target="blank">
+<img src="https://img.shields.io/github/forks/baronblue/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium forks"/>
 </a>
-<a href="https://github.com/manueltgomes/regular-expression-compendium/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/manueltgomes/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium stars"/>
+<a href="https://github.com/baronblue/regular-expression-compendium/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/baronblue/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium stars"/>
 </a>
-<a href="https://github.com/manueltgomes/regular-expression-compendium/issues" target="blank">
-<img src="https://img.shields.io/github/issues/manueltgomes/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium issues"/>
+<a href="https://github.com/baronblue/regular-expression-compendium/issues" target="blank">
+<img src="https://img.shields.io/github/issues/baronblue/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium issues"/>
 </a>
-<a href="https://github.com/manueltgomes/regular-expression-compendium/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/manueltgomes/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium pull-requests"/>
+<a href="https://github.com/baronblue/regular-expression-compendium/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/baronblue/regular-expression-compendium?style=flat-square" alt="regular-expression-compendium pull-requests"/>
 </a>
 </p>
 
 <p align="center">
     ·
-    <a href="https://github.com/manueltgomes/regular-expression-compendium/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/manueltgomes/regular-expression-compendium/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Request Feature</a>
     ·
-    <a href="https://github.com/manueltgomes/regular-expression-compendium/issues/new/choose">Submit Expression</a>
+    <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Submit Expression</a>
     ·
-</p>
-
-
-<p align="center"><a href="https://www.buymeacoffee.com/manueltgomes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=manueltgomes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
-<p aligh="center">10% of all proceeds go to St. Jude Children's Research Hospital.</p>
-<p aligh="center">If you want to donate directly go to <a href="https://www.stjude.org/donate/donate-to-st-jude.html?sc_icid=home-btn-donate-now">their official website</a> and give, even if it's $1 or 1€. They are saving kids with cancer for free and sharing the research with the world. What better way to give back?
 </p>
 
 ## Introduction
@@ -55,7 +49,7 @@ Here are some ways to use it.
 
 ### Code Samples
 
-**Don't see your favorite programing language? <a href="https://github.com/manueltgomes/regular-expression-compendium/issues/new/choose">Submit an code smaple</a> and I'll add it.**
+**Don't see your favorite programing language? <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Submit an code smaple</a> and I'll add it.**
 
 ---
 
@@ -174,6 +168,7 @@ Some expressions only make sense for certain countries, like phone number format
 #### Portugal 🇵🇹
 
 Valid phone number. Here are the valid formas:
+
 - +351 ### ### ###
 - 00 351 ### ### ###
 
@@ -193,7 +188,7 @@ I'm not creating all the expressions, so I'll feature the authors of each. If yo
 
 ## 💪 Contributing
 
-Expressions are always welcome, so please <a href="https://github.com/manueltgomes/regular-expression-compendium/issues/new/choose">Submit an Expression</a>. I'll check it, and if it makes sense, I'll add it. Please don't forget to include what's it supposed to test for
+Expressions are always welcome, so please <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Submit an Expression</a>. I'll check it, and if it makes sense, I'll add it. Please don't forget to include what's it supposed to test for
 
 <hr>
 <p align="center">
