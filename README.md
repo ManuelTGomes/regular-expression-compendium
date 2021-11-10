@@ -37,7 +37,7 @@ I'm compiling a list of all the regular expressions that I find helpful, and I t
 
 ## How to use it?
 
-If you want to test the expresions you can always go to [regex101](https://regex101.com). The website is amazing.
+If you want to test the expressions you can always go to [regex101](https://regex101.com). The website is amazing.
 
 If you use Visual Studio Code I recommend downloading the [Regexp Explain](https://marketplace.visualstudio.com/items?itemName=LouisWT.regexp-preview). The preview is amazing.
 
@@ -49,13 +49,13 @@ Here are some ways to use it.
 
 ### Code Samples
 
-**Don't see your favorite programing language? <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Submit an code smaple</a> and I'll add it.**
+I'll include the code samples for each regular expression. I'll use python but if you **don't see your favorite programing language please <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">submit an code sample</a> and I'll add it with full attribution of course :).**
 
 ---
 
 ## The list
 
-The list is separated in various sections. I can change the order or you can propose one taht makes more sense. Feedback is welcome.
+The list is separated in various sections. I can change the order or you can propose one that makes more sense. Feedback is welcome.
 
 - [Dates](#dates)
 - [Types](#types)
@@ -167,7 +167,7 @@ Some expressions only make sense for certain countries, like phone number format
 
 #### Portugal 🇵🇹
 
-Valid phone number. Here are the valid formas:
+Valid phone number. Here are the valid ways to display the number:
 
 - +351 ### ### ###
 - 00 351 ### ### ###
@@ -188,7 +188,7 @@ I'm not creating all the expressions, so I'll feature the authors of each. If yo
 
 ## 💪 Contributing
 
-Expressions are always welcome, so please <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Submit an Expression</a>. I'll check it, and if it makes sense, I'll add it. Please don't forget to include what's it supposed to test for
+Expressions are always welcome, so please <a href="https://github.com/baronblue/regular-expression-compendium/issues/new/choose">Submit an Expression</a>. I'll check it, and if it makes sense, I'll add it. Please don't forget to include what's it supposed to test for, so that I can understand it better.
 
 <hr>
 <p align="center">
